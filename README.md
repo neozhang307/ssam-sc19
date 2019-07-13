@@ -15,7 +15,7 @@
 
 ## how to run
 
-    in setting folder, run ./test-all.sh
+    cd setting && ./test-all.sh
 
 
 ## result

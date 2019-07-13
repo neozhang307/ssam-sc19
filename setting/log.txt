@@ -1,3 +1,0 @@
-prof_2dstencil
-prof_3dstencil
-test_ssai_2dconv
