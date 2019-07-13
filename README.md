@@ -1,5 +1,7 @@
 # ssam-sc19
 
+    Note ssai = ssam
+
 ## dependency
 
     cuda dirver 410.480
